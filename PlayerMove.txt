@@ -4,4 +4,11 @@ class PlayerMove
 	{
 		print("Hello World!")
 	}
+	void Update()
+	{
+		if(5>3)
+		{
+			print("Goodbye!")
+		}
+	}
 }
