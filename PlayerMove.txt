@@ -10,10 +10,5 @@ class PlayerMove
 		{
 			print("Good Day!");
 		}
-		if(shoot)
-		{
-			print("It go BOOM!");
-			sound = ("BOOM");
-		}
 	}
 }
