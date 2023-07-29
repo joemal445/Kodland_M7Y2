@@ -2,13 +2,13 @@ class PlayerMove
 {
 	void Start()
 	{
-		print("Hello World!");
+		print("Hello World!")
 	}
 	void Update()
 	{
 		if(5>3)
 		{
-			print("Good Day!");
+			print("Good Day!")
 		}
 	}
 }
